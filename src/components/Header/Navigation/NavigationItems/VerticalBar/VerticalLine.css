@@ -1,0 +1,6 @@
+.verticalLine{
+    flex: 0.02;
+    background-color: brown;
+    align-items: center;
+    justify-content: center;
+}

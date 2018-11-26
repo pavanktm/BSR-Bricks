@@ -1,0 +1,13 @@
+.nav-item{
+    flex: 1;
+    background-color: white;
+    border: 1.1px solid brown;
+    border-radius: 15%;
+}
+.nav-item:hover,
+.nav-item:active{
+    background-color: #d8d0d0;
+}
+.link{
+    text-decoration: none;
+}
